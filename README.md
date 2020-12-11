@@ -1,1 +1,1 @@
-# Platform to collaborate with each other and learn
+# Platform to collaborate with each other and to learn
